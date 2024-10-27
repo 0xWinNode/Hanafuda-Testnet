@@ -4,15 +4,11 @@ Hanafuda Bot is a powerful tool designed for you to automate hanafuda retroactiv
 ## Register with HanaFuda (Hana Network)
 
 - https://hanafuda.hana.network
-- 𝗨𝘀𝗲 𝗮𝗰𝗰𝗲𝘀𝘀 𝗰𝗼𝗱𝗲: 21OM73
 - Deposit $0,5- $1 in ARB or BASE network for low gas fees
 - Go to dashboard
 - Earn Points via Grow and Draw Hanafuda
 - WIthdraw start early Q1 2025
 
-## Join My Channel
-telegram channel just for sharing bot or airdrop, join here
-[**JOIN CHANNEL**](https://t.me/airdropinsiderid).
 
 ## BOT FEATURE
 - Multi Account 
@@ -27,7 +23,7 @@ telegram channel just for sharing bot or airdrop, join here
 ### Linux
 1. Clone project repo
    ```
-   git clone https://github.com/airdropinsiders/Hanafuda-Testnet.git && cd Hanafuda-Testnet
+   git clone https://github.com/0xWinNode/Hanafuda-Testnet.git && cd Hanafuda-Testnet
    ```
 2. Run
    ```
@@ -54,7 +50,7 @@ telegram channel just for sharing bot or airdrop, join here
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/hanafuda-bot.git && cd hanafuda-bot
+   git clone https://github.com/0xWinNode/Hanafuda-Testnet.git && cd Hanafuda-Testnet
    ```
 3. Run 
    ```
